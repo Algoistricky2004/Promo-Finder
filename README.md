@@ -3,7 +3,7 @@
 Reads microdrama screenplays (timestamped `.txt`) and finds 20-60 s promo clips: a hook in the first 3 s, a cliffhanger at the cut, understandable on its own.
 Per promo it outputs: episode, start/end of every segment, hook, cliffhanger, one-line why, 1-5 scores, rank.
 
-**Run in Colab:** https://colab.research.google.com/github/Algoistricky2004/Promo-Finder/blob/main/Kuku_Promo_Finder_Colab.ipynb (clones this repo; you upload only the scripts zip).
+**Run in Colab:** https://colab.research.google.com/drive/1wc6wDgMY2L6iLTxACOoqaQuS-XeutGy8?usp=sharing (clones this repo; you upload only the scripts zip).
 
 **Confidentiality.** Kuku's scripts, the judgments that quote them and the raw outputs are *not* in this repo. The repo is code only. Put the scripts in `./pack/` (any folder layout of `*.txt`).
 The saved judge output and all raw outputs from the 50-episode pack are in the separate raw-outputs folder shared in the submission form.
